@@ -1,3 +1,5 @@
+.. _flv-reference-label:
+
 FLV封装格式
 ===========
 

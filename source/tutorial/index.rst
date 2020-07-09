@@ -6,4 +6,5 @@
     :maxdepth: 1
 
     encapsulation_format/index
+    streaming_media/index
 
