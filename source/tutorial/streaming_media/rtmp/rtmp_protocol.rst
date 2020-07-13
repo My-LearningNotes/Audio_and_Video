@@ -390,7 +390,7 @@ The 4 bytes are packed in the big-endian order.
 Three-byte field that identifies the stream of the message. 
 These bytes are set in big-endian format.
 
-.. image:: images/rtmp/message_header.png
+.. image:: images/message_header.png
 
 
 Message Playload
@@ -534,10 +534,10 @@ Comand Message(命令消息, Message Type ID = 17或20)
 
 *   推流
 
-.. image:: images/rtmp/rtmp_publish.png
+.. image:: images/rtmp_publish.png
 
 
 *   播流
 
-.. image:: images/rtmp/rtmp_play.png
+.. image:: images/rtmp_play.png
 
